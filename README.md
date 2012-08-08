@@ -8,6 +8,8 @@ The function lunar_date() works like the original date() in PHP (but with a some
 "The Lunar year consists of twelve days, named after the first men who walked on the Moon. Each day is divided into 30 cycles of time, with each cycle being divided into 24 moon-hours. Each moon-hour then has 60 moon-minutes, which in turn of course are made up of 60 moon-seconds each.
 
 The standard notation is: Year-Day-Cycle ∇ Hour:Minute:Second
+
 45-05-15 ∇ 08:27:36
-Lunar Standard Time (LST)" - from http://lunarclock.org/
+
+Lunar Standard Time (LST)" -- from http://lunarclock.org/
 
